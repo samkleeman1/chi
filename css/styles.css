@@ -1,0 +1,14 @@
+html {
+    
+font-family: 'Raleway', sans-serif;
+}
+
+nav ul li a{
+  color: white;
+}  
+
+.img-logo-vertical {
+	position: relative;
+	top: 50%;
+	transform:translateY(10%);
+}
